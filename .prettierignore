@@ -1,0 +1,6 @@
+.dockerignore
+.git*
+node_modules
+.next
+.pnpm-store
+.yarn
